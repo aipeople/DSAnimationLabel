@@ -2,7 +2,7 @@
 //  DSAnimationLabel.h
 //  Caloriemeter
 //
-//  Created by 蘇 on 12/12/19.
+//  Created by 蘇
 //  Copyright (c) 2012年 蘇. All rights reserved.
 //
 
